@@ -1,0 +1,9 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+AntTree: hierarchical clustering, ants self-assembly behavior and portal site automatic construction
+Summary:
+We study a new model for data clustering, which is inspired from the self-assembly behavior of real ants. We simulate the way ants build complex structures by connecting themselves to each other. Being motivated in the midterm by the automatic construction of portal sites, we have shown how this behavior can be used to build a tree-structured partitioning of a database according to the similarities between those data. We have detailed several algorithms which use this model and have evaluated them on artificial and real databases. We have shown that our algorithms obtain competitive results when compared to the Kmeans, to ANTCLASS, and to Ascending Hierarchical Clustering.
+Main contact: Hanene Azzag
+Demo: A simple demo illustrates how the ants self-assembly behavior can be modeled for achieving fast and accurate hierarchical clustering.
+Publications: Please consult our publications page
+Related links: Hanene Azzag|AntTree Demo|Gilles Venturini
+Site powered by Webxygen

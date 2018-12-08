@@ -1,0 +1,17 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Webxygen: an advanced Web site generator
+Summary:
+Webxygen is a software which is intended to host many web sites within a common advanced framework. Our aim is to include and concentrate as many ''intelligent'' features as possible into a single software, Webxygen (which stands for ''WEB SIte GENerator''). All web sites hosted by Webxygen automatically inherit those advanced features.
+Here is a sample of Webxygen's features which are actually implemented:
+Administration: distant from any browser, multi-author and multi-administrators,
+Users rights: login/pwd with different rights allowing to view or not pages or medias, managing extranets,
+Usage analyzis: automatic analyzis of users behaviors (basic statistics on hits and sessions, advanced techniques involving cookies, clustering and datamining algorithms)
+Dynamic adaptation to users: recording user actions, automatic thematic profiling, suggesting related pages in real time,
+Styles: dynamic changes of site styles (for visually impaired people for instance, pages can be made more readable),
+Forums/discusion groups: automatic management of discussion/exchange forums,
+Languages: multi-lingual management of pages and medias.
+Main contact: Antoine Oliver
+Demo: Please consult the www.webxygen.org site where you may visit sites that are actually hosted by Webxygen (and where demos will be soon avalaible).
+Publications: Please consult our publications page
+Related links: Antoine Oliver|Artificial ants|Web for blind people
+Site powered by Webxygen

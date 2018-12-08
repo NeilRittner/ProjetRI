@@ -1,0 +1,11 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Web applications
+Our main activities focus on real-world applications dealing with the Web.
+Ongoing projects:
+Web & Multimedia for blind people Web mining
+Webxygen Automatic creation of web portals
+Past projects:
+Document classification for web portals using hidden Markov models (2002)
+Interactive creation of Web sites (2002)
+Related links: Document classification for web portals|Hanene Azzag|AntTree
+Site powered by Webxygen

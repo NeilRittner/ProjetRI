@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Flocking and Swarm-based algorithms for clustering
+Summary:
+In this work, we use the concept of a swarm (''flying insects'') to deal with the problem of clustering a data set and to dynamically visualize the results of the classification. Each insect is located in a 2D or 3D space and represents one data. It moves according to a local rule which takes into account the neighborhood (other insects). This local rule aims at: (1) establishing an ideal distance between insects which depends on the similarity of the data, (2) moving in the same direction insects that represent similar data. This local rule will favor the appearance of groups of insects that will move together in the same direction. This allows to define a partition of the data set. The dynamic visualization of the groups allows a domain expert to easily perceive the results. An other algorithm can be used to output a definitive partitionning of the data. We have applied this algorithm to several data sets from the ``Machine Learning Repository" and to real data that result from experiments on skin analysis conducted by the CERIES. We have compared also our approach to standard clustering algorithms.
+Here is typical results obtained with our tool on the Iris database::
+Part of this work is done with the support of and in collaboration with the CE.R.I.E.S.
+Main contact: Gilles Venturini, Christiane Guinot
+Related publications:

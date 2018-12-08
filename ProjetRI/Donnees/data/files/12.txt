@@ -1,0 +1,12 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Nicolas Labroche (research page at N&N group)
+labroche@univ-tours.fr
++33 2 47 36 14 25
++33 2 47 36 14 22
+Status: PHD Student in Computer Science, E3i, University of Tours
+Main research interests: ants based clustering algorithm, Web usage mining, clustering of Web user sessions
+Main research responsabilities: manager of the project with the Marmoutier's school, member of organising committee for the JFT'2003
+Main teaching responsabilities: algorithmic creation of a Web Site, Client/Server programming, AutoCad & Virtual Reality Modelling Langage, manager of the computer system room
+Hobbies: lead & rhythm guitarist in the music group ColdWings, drawing, books (Tolkien,Lovecraft)
+PHD Abstract. In this work, we propose a new clustering algorithm, based on the chemical recognition system of ants, and its application to the Web usage mining problem. First, we model the chemical recognition system of ants in order to extract the main principles and to use them in our clustering method. Second, we develop a clustering algorithm in which each object of the data set is linked to the odour of an artificial ant. At the end of the process, artificial ants that have the same odour (i.e. that correspond to similar objects) gather in the same nest, which provides the expected partition of the data set. This algorithm is then applied to the web usage mining problem, to find groups of Web users according to their sessions. Our algorithm is well adapted since it can treat every types of data, it makes no assumption concerning the clusters to be found, it does not need to be parameterised and it runs in sub-quadratic time. Moreover, our method can be incremental and can provide in linear time existing profiles for each cluster, which is worthy in the Web usage mining context.
+Publications:

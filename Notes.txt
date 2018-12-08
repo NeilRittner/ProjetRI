@@ -1,0 +1,29 @@
+Notes TP1 : 
+- Ne pas mettre le chemin (url) en dur
+
+- A rendre : http.cpp/.h + Index.cpp/.h
+
+- protocole http 1.0
+
+- content-type = Famille/SousFamille (c'est normalisé)
+
+- Traduire les %XX avec XX qui est de l'hexadécimal --> le traduire en ASCII pour ensuite connaître le caractère
+--> caractères dans les params de la requête get
+
+- identifiant de la socket = paramètre qu'on reçoit (cf http.cpp)
+
+- Faire une machine à états pour détecter les informations du header.
+
+- setHeader : permettre de faire l'en-tête
+
+- *httpCode = "CODE Signification" et pas juste CODE
+
+
+-----------------------------------------------------------
+Notes TP2 :
+- Pour chaque fichier : 
+	- Extraire les mots, à chaque mot, regarder si le mot existe déjà ou non.
+	- Une fois qu'on a fini
+
+- La connexion sur la base de données se fait avec des paramètres du fichier de config
+- Pour le page rank : fichier links.txt

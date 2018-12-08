@@ -1,0 +1,6 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+AntClass: clustering numerica data
+Summary:
+We present in this work a new hybrid algorithm for data clustering. This algorithm discovers automatically clusters in numerical data without prior knowledge of a possible number of classes, without any initial partition, and without complex parameter settings. It uses the stochastic and exploratory principles of an ant colony with the deterministic and heuristic principles of the Kmeans algorithm. Ants move on a 2D board and may load or drop objects. Dropping or picking up an object on an existing heap of objects depends on the similarity between this object and the heap. The Kmeans algorithm improves the convergence of the ant colony clustering. We repeat two stochastic/deterministic steps and introduce hierarchical clustering on heaps of objects and not just objects. We also use other refinements such as an heterogeneous population of ants to avoid complex parameter settings, and a local memory in each ant. We have applied this algorithm on standard databases and we get very good results compared to the Kmeans and ISODATA algorithms. We have also developed with success a real world application.
+Main contact: Nicolas Monmarché
+Related publications:

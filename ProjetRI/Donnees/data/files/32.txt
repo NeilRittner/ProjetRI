@@ -1,0 +1,13 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Ali Alarabi (research page at N&N group)
+alimoh222@yahoo.com
++33 2 47 36 14 29
++33 2 47 36 14 22
+Status: PHD Student in Computer Science, EPU, University of Tours
+Main research interests: optimization and construction of hypertexts
+Main research responsabilities:
+Main teaching responsabilities:
+Hobbies:
+PHD Abstract. Hyperlinks are an important aspect of Web sites and Web-based information systems. However, hyperlinks are used in many ways that are not always meaning-full. They are in general set by hand by the creator/manager of the information system. There is thus a need to automatically organize the information in order to improve user navigation. This can be done by adding/removing hyperlinks in a Web-based information system. We thus plan to help users to find the correct information more rapidly. To accomplish this, we will use word and paragraph similarity for introducing dynamic hyperlinks in text, as well as the current history of users behaviours on the hyperlinks structure.
+Related links: Document classification for web portals|Artificial ants|Nicolas Monmarché
+Site powered by Webxygen

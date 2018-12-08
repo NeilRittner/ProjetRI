@@ -1,0 +1,10 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Genetic algorithms
+We study Genetic algorithms since several years.
+Ongoing projects:
+Interactive creation of Web sites Web mining
+Past projects:
+Epistasis measures (1997)
+Learning rules in FOL (1997)
+Related links: Genetic and interactive optimization of web sites|Hidden Markov Models|First order logic and genetic learning
+Site powered by Webxygen

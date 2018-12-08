@@ -1,0 +1,6 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Modelling the ants chemical recognition system & Clustering
+Summary:
+We introduce in this work a new method for the unsupervised clustering problem, relying on a modelling of the ants chemical recognition system. The latter provides ants with the ability to discriminate between nestmates and intruders, and thus to create homogeneous groups of individuals sharing a similar odor by continuously exchanging chemical cues. This phenomenon, known as "colonial closure", gives us the idea to developp a new clustering algorithm and then to compare it to a well-known method such as K-Means method. Our results show that our algorithm performs better than K-Means over artificial and real data sets, and furthermore our approach requires less initial informations (such as number of classes, shape of classes, limitation in the types of attributes handled).
+Main contact: Nicolas Labroche
+Related publications:

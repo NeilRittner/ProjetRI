@@ -1,0 +1,7 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+API: Modeling Pachycondyla Apicalis for optimization
+Summary:
+In this work we present a new optimization algorithm based on a model of the foraging behavior of a population of primitive ants (Pachycondyla Apicalis). These ants are characterized by a relatively simple but efficient strategy for prey search in which individuals hunt alone and try to cover a given area around their nest. The ant colony search behavior consists of a set of parallel local searches on hunting sites with a sensitivity to successful sites. Also, their nest is periodically moved. Accordingly, the proposed algorithm performs parallel random searches in the neighborhood of points called hunting sites. Hunting sites are created in the neighborhood of a point called nest. At constant intervals of time the nest is moved, which corresponds to a restart operator which re-initializes the parallel searches.
+We have applied this algorithm, called API, to numerical optimization problems with encouraging results. For instance, good results have been obtained on the hidden Markov chains learning problem in comparison with a genetic algorithm. Neural Network has also been tackled from the weight learning point of view with API. Tests have also been performed on combinatorial problems such as the Traveler Salesman Problem.
+Main contact: Nicolas Monmarché
+Related publications:

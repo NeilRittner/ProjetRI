@@ -1,0 +1,1032 @@
+Home| Who| What| Where| Extranet| Demos|> Publications <
+Our publications
+2003
+[pdf] [BibTeX] H. Azzag, N. Monmarché, M. Slimane, G. Venturini, C. Guinot (2003). AntTree : a New Model for Clustering with Artificial Ants. IEEE Congress on Evolutionary Computation, Canberra, Australia
+@INPROCEEDINGS
+{azzag1 ,
+AUTHOR = "Azzag, H. Monmarch"\'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+TITLE = "AntTree : a New Model for Clustering with Artificial Ants",
+YEAR = "2003",
+BOOKTITLE = "The Congress on Evolutionary Computation",
+Volume = "",
+EDITOR = "",
+PAGES = "2642--2647",
+ADDRESS = "Canberra, Australia",
+MONTH = "08-12 December",
+ORGANISATION = "",
+PUBLISHER = "IEEE-Press",
+NOTE = ""
+}
+[BibTeX] F. Picarougne, N. Monmarché, M. Slimane, G. Venturini, C. Guinot (2003). Geniminer, un outil pour la veille stratégique. Journées Francophones de la Toile - JFT 2003, pp 323-324
+@INPROCEEDINGS
+{PicMonSliVenGui03a,
+author = Picarougne, F. and Monmarch{'e}, N. and Slimane, M. and Venturini, G. and Guinot, C.",
+title = "Geniminer, un outil pour la veille stratégique",
+booktitle = "Journées Francophones de la Toile - JFT 2003",
+year = "2003",
+month = "30 juin - 2 juillet",
+address = "Tours, France",
+pages = "323--324",
+}
+[pdf] [BibTeX] F. Picarougne, N. Monmarché, M. Slimane, G. Venturini, C. Guinot (2003). Two bio-inspired metaheuristics for information search on the Web. Proceedings of the 6th International Conference on Artificial Evolution, 2003, pp 422-434
+@INPROCEEDINGS
+{PicMonSliVenGui03b,
+author = Picarougne, F. and Monmarch{'e}, N. and Slimane, M. and Venturini, G. and Guinot, C.",
+title = "Two bio-inspired metaheuristics for information search on the Web",
+booktitle = "Proceedings of the 6th International Conference on Artificial Evolution",
+year = "2003",
+month = "27-30 octobre",
+address = "Marseille, France",
+pages = "422--434",
+}
+[pdf] [BibTeX] H. Azzag, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). A clustering algorithm based on the ants self-assembly behaviour. the 7th European Conference on Artificial Life (ECAL), Derthmund, Germany
+InProceedings{azzag2,
+author = "Azzag, H. Monmarch"'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+title = "A clustering algorithm based on the ants self-assembly behaviour",
+booktitle = "Advances in Artificial Life - Proceedings of the 7th European Conference on Artificial Life (ECAL)",
+pages = "564--571",
+year = "2003",
+editor = "W. Banzhaf and T. Christaller and P. Dittrich and J. T. Kim and J. Ziegler",
+volume = "2801",
+series = "Lecture Notes in Artificial Intelligence",
+publisher = "Springer Verlag Berlin, Heidelberg",
+ADDRESS = "Derthmund, Allemagne",
+MONTH = "Septembre",
+note = "in print"
+}
+[pdf] [BibTeX] H. Azzag, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). Classification arborescente de données par auto-assemblage de fourmis artificielles. 10 eme rencontres de la Societe Francophone de Classification (SFC), Neuchatel, Suisse
+InProceedings{azzag5,
+author = "Azzag, H. Monmarch"'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+title = "Classification arborescente de données par auto-assemblage de fourmis artificielles",
+booktitle = "Societe Francophone de Classification (SFC)",
+pages = "55--58",
+year = "2003",
+editor = "Yadolah Dodge et Giuseppe Melfi",
+volume = "",
+series = "",
+publisher = "Presses academiques neuchatel",
+ADDRESS = "Neuchatel, Suisse",
+MONTH = "9-12 Septembre",
+note = ""
+[pdf] [BibTeX] H. Azzag, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). Construction de sites portails par des fourmis artificielles. Journées Francophones de la Toile - JFT , Tours, France
+InProceedings{azzag3,
+author = "Azzag, H. Monmarch"'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+title = "Construction de sites portails par des fourmis artificielles",
+booktitle = "Journee Francophones de Classification (JFT)",
+pages = "325--326",
+year = "2003",
+editor = "",
+volume = "",
+series = "",
+publisher = "",
+ADDRESS = "Tours, France",
+MONTH = "Juin",
+note = ""
+}
+[BibTeX] A. Oliver, F. Picarougne, H. Azzag, G. Venturini, N. Monmarché, M. Slimane (2003). Webxygen, un générateur de sites Web. Journées Francophones de la Toile - JFT , Tours, France
+InProceedings{azzag4,
+author = "A. Oliver, F. Picarougne, H. Azzag, G. Venturini, N. Monmarché, M. Slimane",
+title = "Webxygen, un générateur de sites Web",
+booktitle = "Journee Francophones de Classification (JFT)",
+pages = "329--330",
+year = "2003",
+editor = "",
+volume = "",
+series = "",
+publisher = "",
+ADDRESS = "Tours, France",
+MONTH = "Juin",
+note = ""
+}
+[BibTeX] H. Azzag, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). Algorithme AntTree : Classification non supervisée par des fourmis artificielles. Actes de la XXXVemes Journées de Statistiques, Lyon, France
+@INPROCEEDINGS
+{ AZZAG8,
+AUTHOR = "Azzag, H. Monmarch"'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+TITLE = "Algorithme AntTree : Classification non supervisée par des fourmis artificielles",
+YEAR = "2003",
+BOOKTITLE = "Actes de la XXXVemes Journées de Statistiques"
+EDITOR = "",
+VOLUME = "",
+SERIES = "",
+PAGES = "137--140",
+ADDRESS = "Lyon",
+MONTH = "",
+ORGANISATION = "XXXV journées de statistique",
+PUBLISHER = ""
+NOTE = ""
+}
+[BibTeX] V. Amiot, S. Aupetit, N. Monmarché, M. Slimane, A. Oliver, G. Venturini (2003). Génération interactive de modèles de conception PowerPoint. Hypertextes et Hypermédias, Réalisations, Outils & Méthodes (H2PTM03)
+@INPROCEEDINGS
+{AmiAupMonSliOliVen03a_h2ptm ,
+AUTHOR = "Amiot, V. and Aupetit, S. and Monmarch{'e}, N. and Slimane, M. and Oliver, A. and Venturini, G.",
+TITLE = "G{'e}n{'e}ration interactive de mod{`e}les de conception {PowerPoint}",
+YEAR = "2003",
+BOOKTITLE = "Hypertextes et Hyperm{'e}dias, R{'e}alisations, Outils & M{'e}thodes (H2PTM03)",
+PAGES = "?--?",
+ADDRESS = "Paris, France",
+MONTH = "septembre",
+PUBLISHER = "Hermes",
+NOTE = ""
+}
+[BibTeX] S. Aupetit, V. Bordeau, N. Monmarché, M. Slimane, G. Venturini (2003). Interactive Evolution of Ant Paintings. IEEE Congress on Evolutionary Computation
+@INPROCEEDINGS
+{ AupBorMonSliVen03a_cec,
+AUTHOR = "Aupetit, S. and Bordeau, V. and Monmarch{'e}, N. and Slimane, C. and Venturini, G.",
+TITLE = "{Interactive Evolution of Ant Paintings}",
+YEAR = "2003",
+BOOKTITLE = "IEEE Congress on Evolutionary Computation",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "",
+ADDRESS = "Canberra",
+MONTH = "8-12 december",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+[pdf] [BibTeX] S. Aupetit, N. Monmarché, C. Guinot, G. Venturini, M. Slimane (2003). Exploration de données multimédia par réalité virtuelle. In 3èmes journées Francophones sur l'Extraction et la Gestion de Connaissances (EGC 2003), Lyon, 22 au 24 Janvier 2003. RSTI Série RIA-ECA Vol 17, numéro 1-2-3, Hermes. pages 71-82.
+@INPROCEEDINGS
+{ AupMonGuiVenSli03a,
+AUTHOR = "Aupetit, S. and Monmarch{\'e}, N. and Guinot, C. and Venturini, G. and Slimane, M.",
+TITLE = "Exploration de donn{\'e}es multimédia par r{\'e}alit{\'e} virtuelle",
+YEAR = "2003",
+BOOKTITLE = "Extraction et Gestion des Connaissances (EGC 2003)",
+VOLUME = "17 - N$^o$1-2-3",NUMBER = "",
+SERIES = "RSTI S\'erie RIA-ECA",
+PAGES = "71--82",
+ADDRESS = "Lyon",
+MONTH = "22 au 24 Janvier",
+PUBLISHER = "Hermes",
+NOTE = ""
+}
+[BibTeX] S. Aupetit, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). Clustering and Dynamic Data Visualization with Artificial Flying Insect. Genetic and Evolutionary Computation Conference (GECCO)
+@INPROCEEDINGS
+{ AupMonSliGuiVen03a_gecco,
+AUTHOR = "Aupetit, S. and Monmarch{'e}, N. and Slimane, M. and Guinot, C. and Venturini, G.",
+TITLE = "{Clustering and Dynamic Data Visualization with Artificial Flying Insect}",
+YEAR = "2003",
+BOOKTITLE = "Genetic and Evolutionary Computation Conference",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "140--141",
+ADDRESS = "Chicago",
+MONTH = "",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+[BibTeX] H. Azzag, C. Guinot, N. Monmarché, M. Slimane, G. Venturini (2003). Classification hiérarchique par des fourmis artificielles: application à la construction de sites portails. Actes des cinquièmes journées nationales de la ROADEF, Avignon, France, 26-28 février
+@INPROCEEDINGS
+{AzzGuiMonSliVen03a,
+author = "Azzag, H. and Guinot, C. and Monmarch{'e}, N. and Slimane, M. and Venturini, G.",
+title = "Classification hiérarchique par des fourmis artificielles : application à la construction de sites portails",
+booktitle = "Actes des cinqui{`e}mes journées nationales de la ROADEF",
+year = "2003",
+month = "26-28 février",
+address = "Avignon, France",
+pages = "124--125",
+note = ""
+}
+[pdf] [BibTeX] H. Azzag, N. Monmarché, M. Slimane, C. Guinot, G. Venturini (2003). Algorithme AntTree : Classification non supervisée par des fourmis artificielles. XXXV Journée de Statistique, 2-6 juin, Lyon, Revue des Nouvelles Technologies de l'Information, Cépaduès
+@INPROCEEDINGS
+{ AZZAG5,
+AUTHOR = "Azzag, H. Monmarch"\'e", N. and Slimane, M. and Venturini, G. and Guinot, C.",
+TITLE = "Algorithme AntTree : Classification non supervisée par des fourmis artificielles",
+YEAR = "2003",
+BOOKTITLE = "Revue des nouvelles technologies et l'information"
+EDITOR = "",
+VOLUME = "",
+SERIES = "",
+PAGES = "75--86",
+ADDRESS = "Lyon",
+MONTH = "",
+ORGANISATION = "XXXV journées de statistique",
+PUBLISHER = "Cepadues",
+NOTE = ""
+}
+C. Guéret, M. Slimane, C Proust, G. Venturini (2003). Exploring 3D Geographical Data in Real-Time through the Web. Pattern Recognition and Image Analysis, Yuri I.Zhuravlev (Editor). To appear
+[pdf] [BibTeX] N. Labroche (2003). Modélisation du système de reconnaissance chimique des fourmis pour le problème de la classification non-supervisée : application à la mesure d'audience sur Internet. Thèse de doctorat, Laboratoire d Informatique, Université de Tours, décembre
+@PHDTHESIS
+{ Lab03,
+author = "Nicolas Labroche",
+title = "Mod{\'e}lisation du syst{\`e}me de reconnaissance chimique des fourmis pour le probl{\`e}me de la classification non-supervis{\'e}e : application {\`a} la mesure d'audience sur Internet",
+school = "Laboratoire d'Informatique",
+year = "2003",
+type = "Th{\`e}se de doctorat",
+address = "Universit{\'e} de Tours",
+month = "d{\'e}cembre"
+}
+[pdf] [BibTeX] N. Labroche, N. Monmarché, G. Venturini (2003). AntClust: Ant Clustering and Web Usage Mining. Genetic and Evolutionary Computation Conference (GECCO)
+@INPROCEEDINGS
+{ LabMonVen03a_gecco,
+AUTHOR = "Labroche, N. and Monmarch{'e}, N. and Venturini, G.",
+TITLE = "{AntClust: Ant Clustering and Web Usage Mining}",
+YEAR = "2003",
+BOOKTITLE = "Genetic and Evolutionary Computation Conference",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "25--36",
+ADDRESS = "Chicago",
+MONTH = "",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Labroche, N. Monmarché, G. Venturini (2003). Web sessions clustering with artificial ants colonies. WWW2003 Conference
+@INPROCEEDINGS
+{ LabMonVen03b_www,
+AUTHOR = "Labroche, N. and Monmarch{'e}, N. and Venturini, G.",
+TITLE = "Web sessions clustering with artificial ants colonies",
+YEAR = "2003",
+BOOKTITLE = "WWW2003 Conference",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "Poster",
+ADDRESS = "Budapest",
+MONTH = "",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Labroche, N. Monmarché, G. Venturini (2003). Visual clustering with artificial ants colonies. Seventh International Conference on Knowledge-Based Intelligent Information \& Engineering Systems (KES 2003)
+@INPROCEEDINGS
+{LabMonVen03c_kes ,
+AUTHOR = "Labroche, N. and Monmarch{'e}, N. and Venturini, G.",
+TITLE = "Visual clustering with artificial ants colonies",
+YEAR = "2003",
+BOOKTITLE = "Seventh International Conference on Knowledge-Based Intelligent Information & Engineering Systems (KES 2003)",
+PAGES = "?--?",
+ADDRESS = "",
+MONTH = "3 - 5 September 2003 ",
+PUBLISHER = "",
+NOTE = ""
+}
+[BibTeX] N. Monmarché, M. Slimane, G. Venturini (2003). Fourmis artistiques ou l'art artificiel pictural et musical. Hypertextes et Hypermédias, Réalisations, Outils & Méthodes (H2PTM03)
+@INPROCEEDINGS
+{MonSliVen03a_h2ptm ,
+AUTHOR = "Monmarch{'e}, N. and Slimane, M. and Venturini, G.",
+TITLE = "Fourmis artistiques ou l'art artificiel pictural et musical",
+YEAR = "2003",
+BOOKTITLE = "Hypertextes et Hyperm{'e}dias, R{'e}alisations, Outils & M{'e}thodes (H2PTM03)",
+PAGES = "?--?",
+ADDRESS = "Paris, France",
+MONTH = "septembre",
+PUBLISHER = "Hermes",
+NOTE = ""
+}
+[pdf] [BibTeX] F. Picarougne, N. Monmarché, A. Oliver, G. Venturini (2003). Geniminer, un moteur de recherche génétique. In 3èmes journées Francophones sur l'Extraction et la Gestion de Connaissances (EGC 2003), Lyon, 22 au 24 Janvier 2003. RSTI Série RIA-ECA Vol 17, numéro 1-2-3, Hermes. pages 319-330.
+@INPROCEEDINGS
+{ PicMonOliVen03a,
+AUTHOR = "Picarougne, F. and Monmarch{'e}, N. and Oliver, A. and Venturini",
+TITLE = "GeniMiner, un moteur de recherche g{'e}n{'e}tique",
+YEAR = "2003",
+BOOKTITLE = "Extraction et Gestion des Connaissances (EGC 2003)",
+EDITOR = "",
+VOLUME = "17 - N$^o$1-2-3",NUMBER = "",
+SERIES = "RSTI S'erie RIA-ECA",
+PAGES = "319--330",
+ADDRESS = "Lyon",
+MONTH = "22 au 24 Janvier",
+ORGANISATION = "",
+PUBLISHER = "Hermes",
+NOTE = ""
+}
+2002
+V. Brasseur, M. Slimane, N. Vincent, D. Burger (2002). Quick Access to Dictionaries for Visually Impaired People. ICCHP 8th International Conference on Computers Helping People with Special Needs, 15-20 july 2002. University of Linz, Austria
+[pdf] V. Brasseur, M. Slimane, N. Vincent, D. Burger (2002). Accessibilité d'une encyclopédie aux aveugles et aux malvoyants / Making an Encyclopedia Accessible for the Visually Impaired. Colloque : Livre et cartable Electroniques pour l'Intégration Scolaire des jeunes Handicapés Visuels, La Villette, 3 mai
+C. Guéret, M. Slimane, C Proust, L. Serradura (2002). Survol d'un département en 3D temps réel. 14-ème Rencontres Européennes de la Géomatique, 8 pages CDRom, Palais des Congrés de Paris, 9-11 avril 2002.
+C. Guéret, M. Slimane, C Proust, G. Venturini (2002). Exploring 3D Geographical Data in Real-Time through the Web. the 6th International Conference
+[pdf] [BibTeX] N. Labroche, N. Monmarché, G. Venturini (2002). A new clustering algorithm based on the chemical recognition system of ants. Proceedings of the European Conference on Artificial Intelligence, Lyon, France, pages 345-349, july
+@INPROCEEDINGS
+{ LabMonVen02a,
+AUTHOR = "Labroche, N. and Monmarch{'e}, N. and Venturini, G.",
+TITLE = "A new clustering algorithm based on the chemical recognition system of ants",
+YEAR = "2002",
+BOOKTITLE = "Proceedings of the 15th European Conference on Artificial Intelligence",
+EDITOR = "Harmelen, {F. van}",
+PAGES = "345--349",
+ADDRESS = "Lyon, France",
+MONTH = "july",
+PUBLISHER = "IOS Press",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Labroche, N. Monmarché, G. Venturini (2002). Modélisation de la fermeture coloniale chez les fourmis pour la classification non supervisée. Conférence d'apprentissage (CAP 2002), pages 137-148, Orléans, France, juin 17-19 2002. Presses Universitaires de Grenoble
+@INPROCEEDINGS
+{ LabMonVen02b,
+AUTHOR = "Labroche, N. and Monmarch{'e}, N. and Venturini, G.",
+TITLE = "Mod{'e}lisation de la fermeture coloniale chez les fourmis pour la classification non supervis{'e}",
+YEAR = "2002",
+BOOKTITLE = "Conf{'e}rence d'apprentissage (CAP 2002)",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "137--148",
+ADDRESS = "Orl{'e}ans, France",
+MONTH = "juin 17-19",
+ORGANISATION = "",
+PUBLISHER = "Presses Universitaires de Grenoble",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Labroche, F.J. Richard, N. Monmarché, A. Lenoir, G. Venturini (2002). Description et modélisation du système d'identification chimique des fourmis. Rapport interne 254, Laboratoire d'Informatique de l'Université de Tours, E3i Tours
+@TECHREPORT{ LabRicMonLenVen02a,
+author = "Labroche, N. and Richard, F.J. and Monmarch\'e, N. and Lenoir, A. and Venturini, G.",
+title = "Description et modélisation du système d'identification chimique des fourmis",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "2002",
+type = "Rapport interne",
+number = "254",
+address = "E3i Tours",
+note = ""
+}
+[pdf] [BibTeX] N. Labroche, F.J. Richard, N. Monmarché, A. Lenoir, G. Venturini (2002). Modelling of the chemical recognition system of ants. In C. K. Hemelrijk, editor, International Workshop on Self-Organization and Evolution of Social Behaviour, pages 283-292, Monte Verità, Ascona, Switzerland, September 8-13 2002.
+@INPROCEEDINGS
+{ LabRicMonLenVen02b,
+AUTHOR = "Labroche, N. and Richard, F.J. and Monmarch{\'e}, N. and Lenoir, A. and Venturini, G.",
+TITLE = "Modelling of the chemical recognition system of ants",
+YEAR = "2002",
+BOOKTITLE = "International Workshop on Self-Organization and Evolution of Social Behaviour",
+EDITOR = "Hemelrijk, C. K.",
+PAGES = "283--292",
+ADDRESS = "Monte Verit{\`a}, Ascona, Switzerland",
+MONTH = "September 8-13",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché (2002). Algorithmes à base de fourmis artificielles pour les problèmes à variables continues. Actes des quatrièmes journées nationales de la ROADEF, pages 224-225, Paris, France, 20-22 février
+@INPROCEEDINGS
+{Mon02a,
+author = "Monmarch\'e, N.",
+title = "Algorithmes à base de fourmis artificielles pour les problèmes à variables continues",
+booktitle = "Actes des quatri{\`e}mes journées nationales de la ROADEF",
+year = "2002",
+month = "20-22 février",
+address = "Paris, France",
+pages = "224--225",
+note = ""
+}
+[BibTeX] N. Monmarché (2002). Synthèse sur les algorithmes à base de fourmis artificielles. Journées Evolutionnaires Trimestrielles, 22-23 octobre
+@UNPUBLISHED
+{ Mon02b,
+author = "Monmarch\'e, N.",
+title = "Synth{\`e}se sur les algorithmes à base de fourmis artificielles",
+year = "2002",
+month = "22-23 octobre",
+note = "Journ{\'e}es {\'E}volutionnaires Trimestrielles"
+}
+[pdf] [BibTeX] N. Monmarché, C. Guinot, G. Venturini (2002). Fouille visuelle et classification de données par nuage d'insectes volants. Extraction des Connaissances et Apprentissage : Méthodes d'optimisation pour l'extraction de connaissances et l'apprentissage. volume 6, pages 729-752, 2002.
+@ARTICLE
+{MonGuiVen02a,
+author="Monmarch{\'e}, N. and Guinot, C. and Venturini, G.",
+title ="Fouille Visuelle et classification de donn{\'e}es par nuage d'insectes volants",
+journal = "RSTI-RIA-ECA : M{\'e}thodes d'optimisation pour l'extraction de connaissances et l'apprentissage",
+year = "2002",
+volume = "",
+number = "6",
+pages = "729--752",
+note = ""
+}
+[pdf] [BibTeX] N. Monmarché, H. Marteau, J.P. Gérard, C. Guinot, G. Venturini (2002). Optimisation et intelligence en essaim pour la classification de données. Actes des quatrièmes journées nationales de la ROADEF, pages 286-287, Paris, France, 20-22 février
+@INPROCEEDINGS
+{MonMarGerGuiVen02a,
+author = "Monmarch{\'e}, N. and Marteau, H. and G{\'e}rard, J.-P. and Guinot, C. and Venturini, G.",
+title = "Optimisation et intelligence en essaim pour la classification de données",
+booktitle = "Actes des quatri{\`e}mes journées nationales de la ROADEF",
+year = "2002",
+month = "20-22 février",
+address = "Paris, France",
+pages = "286--287",
+note = ""
+}
+[pdf] [BibTeX] N. Monmarché, H. Marteau, J.P. Gérard, C. Guinot, G. Venturini (2002). Interactive minig of multimedia databases with virtual reality. Proceedings of the Third International Conference on Virtual Reality, pages 478-484, Hangzhou, China, April 9-12
+@INPROCEEDINGS
+{ MonMarGerGuiVen02b,
+AUTHOR = "Monmarch{\'e}, N. and Marteau, H. and G{\'e}rard, J.-P. and Guinot, C. and Venturini, G.",
+TITLE = "Interactive mining of multimedia databases with virtual reality",
+YEAR = "2002",
+BOOKTITLE = "Proceedings of the Third International Conference on Virtual Reality ",
+PAGES = "478--484",
+ADDRESS = "Hangzhou, China",
+MONTH = "April 9-12",
+NOTE = ""
+}
+[pdf] [BibTeX] A. Oliver, N. Monmarché, G. Venturini (2002). Interactive design of web sites with a genetic algorithm. Proceedings of the IADIS International Conference WWW/Internet, pages 355-362, Lisbon, Portugal, november 13-15
+@INPROCEEDINGS
+{ OliMonVen02a,
+AUTHOR = "Oliver, A. and Monmarch{\'e}, N. and Venturini, G.",
+TITLE = "Interactive Design of web sites with a genetic algorithm",
+YEAR = "2002",
+BOOKTITLE = "Proceedings of the IADIS International Conference WWW/Internet",
+PAGES = "355--362",
+ADDRESS = "Lisbon, Portugal",
+MONTH = "november 13-15",
+NOTE = ""
+}
+[pdf] [BibTeX] A. Oliver, O. Regragui, N. Monmarché, G. Venturini (2002). Optimisation génétique et interactive de sites web. Technique et Science Informatique, 21(7):965-984
+@ARTICLE
+{ OliRegMonVen02a,
+author = "Oliver, A. and Regragui, O. and Monmarch{\'e}, N. and Venturini, G.",
+title = "Optimisation génétique et interactive de sites Web",
+journal = "Technique et Science Informatique",
+year = "2002",
+volume = "21",
+number = "7",
+pages = "965--984",
+note = ""
+}
+[pdf] [BibTeX] A. Oliver, O. Regragui, N. Monmarché, G. Venturini (2002). Genetic and interactive optimization of web sites. Eleventh International World Wide Web Conference, Honolulu, Hawaii, 7-11 May
+@INPROCEEDINGS
+{ OliRegMonVen02b,
+author = "Oliver, A. and Regragui, O. and Monmarch\'e, N. and Venturini, G.",
+title = "Genetic and interactive optimization of web sites",
+booktitle = "Eleventh International World Wide Web Conference",
+year = "2002",
+month = "7-11 May",
+address = "Honolulu, Hawaii",
+pages = "",
+note = ""
+}
+[pdf] [BibTeX] F. Picarougne, C. Fruchet, A. Oliver, N. Monmarché, G. Venturini (2002). Recherche d'information sur internet par algorithme génétique. Actes des quatrièmes journées nationales de la ROADEF, pages 247-248, Paris, France, 20-22 février
+@INPROCEEDINGS
+{PicFruOliMonVen02a,
+author = "Picarougne, F. and Fruchet, C. and Oliver, A. and Monmarch\'e, N. and Venturini, G.",
+title = "Recherche d'information sur Internet par algorithme génétique",
+booktitle = "Actes des quatri{\`e}mes journées nationales de la ROADEF",
+year = "2002",
+month = "20-22 février",
+address = "Paris, France",
+pages = "247--248",
+note = ""
+}
+[BibTeX] F. Picarougne, C. Fruchet, A. Oliver, N. Monmarché, G. Venturini (2002). Web searching considered as a genetic optimization problem. Local Search Two Day Workshop, London, UK, 16-17 April
+@INPROCEEDINGS
+{PicFruOliMonVen02b,
+author = "Picarougne, F. and Fruchet, C. and Oliver, A. and Monmarch\'e, N. and Venturini, G.",
+title = "Web searching considered as a genetic optimization problem",
+booktitle = "Local Search Two Day Workshop",
+year = "2002",
+month = "16-17 April",
+address = "London, UK",
+pages = "",
+note = ""
+}
+[pdf] [BibTeX] F. Picarougne, N. Monmarché, A. Oliver, G. Venturini (2002). Web mining with a genetic algorithm. Eleventh International World Wide Web Conference, Honolulu, Hawaii, 7-11 May
+@INPROCEEDINGS
+{PicMonOliVen02a,
+author = "Picarougne, F. and Monmarch\'e, N. and Oliver, A. and Venturini, G.",
+title = "Web mining with a genetic algorithm",
+booktitle = "Eleventh International World Wide Web Conference",
+year = "2002",
+month = "7-11 May",
+address = "Honolulu, Hawaii",
+pages = "",
+note = ""
+}
+[pdf] [BibTeX] F. Picarougne, N. Monmarché, A. Oliver, G. Venturini (2002). Geniminer: Web mining with a genetic based algorithm. Proceedings of the IADIS International Conference WWW/Internet, pages 263-270, Lisbon, Portugal, november 13-15
+@INPROCEEDINGS
+{ PicMonOliVen02b,
+AUTHOR = "Picarougne, F. and Monmarch{\'e}, N. and Oliver, A. and Venturini, G.",
+TITLE = "Geniminer: Web Mining with a Genetic Based Algorithm",
+YEAR = "2002",
+BOOKTITLE = "Proceedings of the IADIS International Conference WWW/Internet",
+PAGES = "263--270",
+ADDRESS = "Lisbon, Portugal",
+MONTH = "november 13-15",
+NOTE = ""
+}
+[pdf] L. Serradura, M. Slimane, N. Vincent, C Proust (2002). Classification semi-automatique de documents Web à l'aide des Chaînes de Markov Cachées. Congré INFORSID 2002, IRIN, Polytech'Nantes, France, 4-7 juin
+[pdf] M. Slimane (2002). Chaînes de Markov Cachées, Algorithmes Evolutionnaires et Fourmis artificielles : Contributions et Hybridations. Rapport d'Habilitation à diriger des recherches soutenue le 20 décembre 2002, Université de Tours.
+[BibTeX] A. Soukhal, N. Monmarché, P. Tessier (2002). Bio-inspired algorithms for hybrid flowshop. Local Search Two Day Workshop, London, UK, 16-17 April
+@INPROCEEDINGS
+{SouMonTes02a,
+author = "Soukhal, A. and Monmarch{\'e}, N. and Tessier, P.",
+title = "Bio-inspired algorithms for Hybrid Flowshop",
+booktitle = "Local Search Two Day Workshop",
+year = "2002",
+month = "16-17 April",
+address = "London, UK",
+pages = "",
+note = ""
+}
+[pdf] [BibTeX] V. T'Kindt, N. Monmarché, F. Tercinet, D. Laügt (2002). An Ant Colony Optimization algorithm to solve a 2-machine bicriteria flowshop scheduling problem. European Journal of Operational Research
+@ARTICLE
+{ TKiMonTerLau02a,
+author = "T'Kindt, V. and Monmarch{\'e}, N. and Tercinet, F. and La{\"u}gt, D.",
+title = "An {A}nt {C}olony {O}ptimization Algorithm to Solve a 2-machine Bicriteria Flowshop Scheduling Problem",
+journal = "European Journal of Operational Research",
+year = "2002",
+volume = "142",
+number = "2",
+pages = "250--257",
+note = ""
+}
+2001
+M. Kelarestaghi, M. Slimane, N. Vincent (2001). Introduction of the fuzzy logic in the Hidden Markov Model. International conference in fuzzy logic and technology, 5-7 septembre 2001, Leicester, UK
+M. Kelarestaghi, A. Soukhal, M. Slimane, P. Martineau (2001). Hidden Markov Models and scheduling, problem with transportation consideration. 15th Annual European Simulation Multiconference, Prague, (Tchéquie), pp.836-840, juin
+[BibTeX] N. Monmarché (2001). Algorithmes à base de populations infinies. Présentation aux Journées Evolutionnaires Trimestrielles (JET6), Université Paris 5, 30 mars
+@UNPUBLISHED{Mon01a,
+author = "Monmarch\'e, N.",
+title = "Algorithmes \`a base de populations infinies",
+year = "2001",
+month = "30 mars",
+note = "Pr\'esentation aux Journ\'ees Evolutionnaires Trimestrielles (JET6), Universit{\'e} Paris 5"
+}
+[pdf] [BibTeX] N. Monmarché, D. Laügt, M. Mestre, N. Labroche, A. Oliver, G. Venturini (2001). Classification et visualisation dynamique de données par nuage d'insectes volants. Neuvièmes rencontres de la Société Francophone de Classification, pages 254-261
+@INPROCEEDINGS
+{ MonLauMesLabOliVen01a,
+AUTHOR = "Monmarch{\'e}, N. and La{\"u}gt, D. and Mestre, M. and Labroche, N. and Oliver, A. and Venturini, G.",
+TITLE = "Classification et visualisation dynamique de donn{\'e}es par nuage d'insectes volants",
+YEAR = "2001",
+BOOKTITLE = "Neuvi{\`e}mes rencontres de la Soci\'et\'e Francophone de Classification",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "254--261",
+ADDRESS = "",
+MONTH = "",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini (2001). L'algorithme antclass : classification non supervisée par une colonie de fourmis artificielles. Extraction des Connaissances et Apprentissage : Apprentissage et évolution, 1(3):131-166
+@ARTICLE
+{ MonSliVen01a,
+author = "Monmarch{\'e}, N. and Slimane, M. and Venturini, G.",
+title = "L'algorithme AntClass : classification non supervis{\'e}e par
+une colonie de fourmis artificielles",
+journal = "Extraction des Connaissances et Apprentissage : Apprentissage et évolution",
+year = "2001",
+volume = "1",
+number = "3",
+pages = "131--166",
+note = ""
+}
+L. Serradura, M. Slimane, N. Vincent (2001). Web pages indexing using Hidden Markov Models. 6th International Conference on Document Analysis (ICDAR),Seattle, 10-13 septembre
+L. Serradura, N. Vincent, M. Slimane (2001). Modélisation, par des chaînes de Markov cachée, des thèmes de textes formatés. 4e Colloque International sur le Document Electronique (CIDE),24-26 octobre 2001, pp.297-301,Toulouse, France
+A. Soukhal, M. Kelarestaghi, M. Slimane, P. Martineau (2001). Application des chaînes de Markov cachées au problème d’ordonnancement dans une cellule robotisée . Conférence Internationale sur la productique,pp.151-156, 9-11 juin, Alger, Algérie
+[pdf] [BibTeX] A. Soukhal, N. Monmarché, D. Laügt, M. Slimane (2001). How hidden markov models can help artificial ants to optimize. Proceedings of the Optimization by building and using probabilistic models workshop, Genetic and Evolutionary Computation Conference, pages 226-229
+@INPROCEEDINGS
+{ SouMonLauSli01a,
+AUTHOR = "Soukhal, A. and Monmarch{\'e}, N. and La{\"u}gt, D. and Slimane, M.",
+TITLE = "How Hidden Markov Models can help Artificial Ants to Optimize",
+YEAR = "2001",
+BOOKTITLE = "Proceedings of the Optimization by building and using probabilistic models workshop, Genetic and Evolutionary Computation Conference",
+EDITOR = "",
+VOLUME = "",NUMBER = "",
+SERIES = "",
+PAGES = "226--229",
+ADDRESS = "",
+MONTH = "",
+ORGANISATION = "",
+PUBLISHER = "",
+NOTE = ""
+}
+2000
+[BibTeX] D. Laügt, F. Tercinet, N. Monmarché, V. T'Kindt (2000). Une heuristique basée sur les colonies de fourmis pour résoudre un problème d'ordonnancement bicritère. Rapport interne 231, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Juillet
+@TECHREPORT{LauTerMonTKi00a,
+author = "La{\"u}gt, D. and Tercinet, F. and Monmarch\'e, N. and T'Kindt, V.",
+title = "Une heuristique bas{\'e}e sur les colonies de fourmis pour r{\'e}soudre un problème d'ordonnancement bicrit{\`e}re",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "2000",
+type = "Rapport interne",
+number = "231",
+address = "E3i Tours",
+month = "Juillet",
+pages = "",
+note = ""
+}
+[pdf] [BibTeX] N. Monmarché (2000). Algorithmes de fourmis artificielles : applications à la classification et à l'optimisation. Thèse de doctorat, Laboratoire d'Informatique, Université de Tours, décembre
+@PHDTHESIS
+{ Mon00a ,
+author = "Monmarch{\'e}, N.",
+title = "Algorithmes de fourmis artificielles : applications {\`a} la classification et {\`a} l'optimisation",
+school = "Laboratoire d'Informatique",
+year = "2000",
+type = "Th{\`e}se de doctorat",
+address = "Université de Tours",
+month = "d{\'e}cembre",
+note = ""
+}
+[pdf] [BibTeX] N. Monmarché, E. Ramat, L. Desbarats, G. Venturini (2000). Probabilistic Search with Genetic Algorithms and Ant Colonies. Proceedings of the Optimization by building and using probabilistic models workshop, Genetic and Evolutionary Computation Conference, A.S. Wu, editor, pages 209-211, Las Vegas, Nevada, July 8-12
+@INPROCEEDINGS
+{ MonRamDesVen00a,
+AUTHOR = "Monmarch{\'e}, N. and Ramat, E. and Desbarats, L. and Venturini, G.",
+TITLE = "{P}robabilistic {S}earch with {G}enetic {A}lgorithms and {A}nt {C}olonies",
+YEAR = "2000",
+BOOKTITLE = "Proceedings of the Optimization by building and using probabilistic models workshop, Genetic and Evolutionary Computation Conference",
+EDITOR = "Wu, A.S.",
+PAGES = "209--211",
+ADDRESS = "Las Vegas, Nevada",
+MONTH = "July 8-12",
+NOTE = ""
+}
+[BibTeX] N. Monmarché, G. Venturini (2000). Présentation des travaux sur le robot fourmi. États Généraux de la Recherche en Sciences Cognitives (PRESCOT), Toulouse, 18-20 octobre, octobre
+@UNPUBLISHED{MonVen00a,
+author = "Monmarch\'e, N. and Venturini, G.",
+title = "Présentation des travaux sur le robot fourmi",
+year = "2000",
+month = "octobre",
+note = "\'Etats Généraux de la Recherche en Sciences Cognitives (PRESCOT), Toulouse, 18-20 octobre"
+}
+[pdf] [BibTeX] N. Monmarché, G. Venturini, M. Slimane (2000). On how Pachycondyla apicalis ants suggest a new search algorithm. Future Generation Computer Systems, 16(8):937-946
+@ARTICLE
+{ MonVenSli00a ,
+author = "Monmarch{\'e}, N. and Venturini, G. and Slimane, M.",
+title = "On how {{\it Pachycondyla apicalis}} ants suggest a new search algorithm",
+journal = "Future Generation Computer Systems",
+year = "2000",
+volume = "16",
+number = "8",
+pages = "937--946",
+note = ""
+}
+M. Seban, G. Venturini (2000). Apprentissage automatique. recueil de textes, Hermès
+L. Serradura, T. Brouard, M. Slimane, G. Venturini (2000). Image segmentation with hidden Markov models. 7th Conference of the International Federation of Classification Societes. Data Analysis, Classification, and Related Methods. July 11-14, Namur, Belgium
+L. Serradura, T. Brouard, M. Slimane, N. Vincent (2000). Hidden Markov Models for pattern extraction . Vision Interface (VI 2000), pp.330-336, may 14-17, Montréal, Québec, Canada
+L. Serradura, M. Slimane, N. Vincent, C Proust (2000). Analyse et classification de portails Internet. Rapport interne n°, 46 pages, juillet
+L. Serradura, M. Slimane, N. Vincent, C Proust (2000). Analyse et classification de sites de communes. Rapport interne n°,27 pages, novembre
+[pdf] [BibTeX] V. T'Kindt, N. Monmarché, D. Laügt, F. Tercinet (2000). Combining Ant Colony Optimization and Simulated Annealing to solve a 2-machine flowshop bicriteria scheduling problem. Proceedings of the European Chapter on Combinatorial Optimization, pages 129-130, Capri, Italy, May 18-20
+@INPROCEEDINGS
+{ TKiMonLauTer00a,
+AUTHOR = "T'Kindt, V. and Monmarch{\'e}, N. and La{\"u}gt, D. and Tercinet, F.",
+TITLE = "Combining {A}nt {C}olony {O}ptimization and {S}imulated {A}nnealing to
+solve a 2-machine flowshop bicriteria scheduling problem",
+YEAR = "2000",
+BOOKTITLE = "Proceedings of the European Chapter on Combinatorial Optimization",
+PAGES = "129--130",
+ADDRESS = "Capri, Italy",
+MONTH = "May 18-20",
+NOTE = ""
+}
+1999
+[pdf] [BibTeX] L. Françoise, N. Monmarché, G. Venturini (1999). Vers un robot modélisant la perception visuelle des fourmis. Actes des Colloques Insectes Sociaux, pages 169-172, Tours, France, 1-3 Septembre
+@INPROCEEDINGS
+{FraMonVen99a,
+AUTHOR = "Fran{\c c}oise, L. and Monmarch{\'e}, N. and Venturini, G.",
+TITLE = "Vers un robot mod{\'e}lisant la perception visuelle des fourmis",
+YEAR = "1999",
+BOOKTITLE = "Actes des Colloques Insectes Sociaux",
+VOLUME = "13",
+PAGES = "169--172",
+ADDRESS = "Tours, France",
+MONTH = "1-3 Septembre",
+NOTE = ""
+}
+[BibTeX] N. Monmarché (1999). Classification non supervisée par une colonie de fourmis. Présentation aux Journées du GTRA, Ecole des Mines de Saint-Etienne, 18 janvier
+@UNPUBLISHED{Mon99a,
+author = "Monmarch\'e, N.",
+title = "Classification non supervis\'ee par une colonie de fourmis",
+year = "1999",
+month = "18 janvier",
+note = "Pr\'esentation aux Journ\'ees du GTRA, Ecole des Mines de Saint-Etienne"
+}
+[BibTeX] N. Monmarché (1999). Algorithmes à base de population de fourmis et optimisation combinatoire. Présentation aux journées de l'optimisation 1999. Montréal, Canada, 10-12 mai
+@UNPUBLISHED{Mon99b,
+author = "Monmarch\'e, N.",
+title = "Algorithmes \`a base de population de fourmis et
+optimisation combinatoire",
+year = "1999",
+month = "10-12 mai",
+note = "Pr\'esentation aux journ\'ees de l'optimisation 1999. Montr\'eal, Canada"
+}
+[pdf] [BibTeX] N. Monmarché (1999). On data clustering with artificial ants. A.A. Freitas, editor, AAAI-99 & GECCO-99 Workshop on Data Mining with Evolutionary Algorithms: Research Directions, pages 23-26, Orlando, Florida, July 18
+@INPROCEEDINGS
+{ Mon99c,
+AUTHOR = "Monmarch{\'e}, N.",
+TITLE = "On data clustering with artificial ants",
+YEAR = "1999",
+BOOKTITLE = "AAAI-99 \& GECCO-99 Workshop on Data Mining with Evolutionary Algorithms:
+Research Directions",
+EDITOR = "Freitas, A.A.",
+PAGES = "23--26",
+ADDRESS = "Orlando, Florida",
+MONTH = "July 18",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, G. Nocent, M. Slimane, G. Venturini (1999). Imagine: a tool for generating HTML style sheets with an interactive genetic algorithm on genes frequencies. IEEE International Conference on Systems, Man, and Cybernetics (SMC'99), pages 640-645, Tokyo, Japan, October 12-15
+@INPROCEEDINGS
+{MonNocSliVen99a ,
+AUTHOR = "Monmarch{\'e}, N. and Nocent, G. and Slimane, M. and Venturini, G.",
+TITLE = "{Imagine}: a tool for generating {HTML} style sheets with an
+interactive genetic algorithm based on genes frequencies",
+YEAR = "1999",
+BOOKTITLE = "IEEE International Conference on Systems, Man, and Cybernetics (SMC'99)",
+VOLUME = "3",
+PAGES = "640--645",
+ADDRESS = "Tokyo, Japan",
+MONTH = "October 12-15",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, G. Nocent, M. Slimane, G. Venturini, P. Santini (1999). Génération de feuilles de style pour site web par un algorithme génétique interactif. Hypertextes et Hypermédias, Réalisations, Outils & Méthodes (H2PTM'99), pages 271-282, Paris, France, 23-24 septembre, Hermes
+@INPROCEEDINGS
+{MonNocSliVenSan99a ,
+AUTHOR = "Monmarch{\'e}, N. and Nocent, G. and Slimane, M. and Venturini, G. and Santini, P.",
+TITLE = "G{\'e}n{\'e}ration de feuilles de style pour site Web
+par un algorithme g{\'e}n{\'e}tique interactif",
+YEAR = "1999",
+BOOKTITLE = "Hypertextes et Hyperm{\'e}dias,
+R{\'e}alisations, Outils \& M{\'e}thodes (H2PTM'99)",
+PAGES = "271--282",
+ADDRESS = "Paris, France",
+MONTH = "23-24 septembre",
+PUBLISHER = "Hermes",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, G. Nocent, G. Venturini, P. Santini (1999). On generating HTML style sheets with an interactive genetic algorithm based on gene frequencies. Artificial Evolution 99, Lecture Notes in Artificial Intelligence, volume 1829, pages 99-110, Dunkerque, France, November 3-5. Springer-Verlag
+@INPROCEEDINGS
+{MonNocVenSan99a ,
+AUTHOR = "Monmarch{\'e}, N. and Nocent, G. and Venturini, G. and Santini, P.",
+TITLE = "On generating {HTML} style sheets with an interactive
+genetic algorithm based on gene frequencies.",
+YEAR = "1999",
+BOOKTITLE = "Artificial Evolution 99, Lecture Notes in Artificial Intelligence",
+VOLUME = "1829",
+PAGES = "99--110",
+ADDRESS = "Dunkerque, France",
+MONTH = "November 3-5",
+PUBLISHER = "Springer-Verlag",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, E. Ramat, G. Dromel, M. Slimane, G. Venturini (1999). On the similarities between AS, BSC and PBIL: toward the birth of a new meta-heuristic. Rapport interne 215, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Janvier. 14 pages.
+@TECHREPORT{MonRamDroSliVen99a,
+author = "Monmarch\'e, N. and Ramat, E. and Dromel, G. and Slimane, M. and Venturini, G.",
+title = "On the similarities between {AS}, {BSC} and {PBIL}:
+toward the birth of a new meta-heuristic",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "1999",
+type = "Rapport interne",
+number = "215",
+address = "E3i Tours",
+month = "Janvier",
+pages = "",
+note = "14 pages"
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini (1999). On improving clustering in numerical databases with artificial ants. D. Floreano, J.D. Nicoud, and F. Mondala, editors, Advances in Artificial Life, 5th European Conference, ECAL'99, Lecture Notes in Artificial Intelligence 1974, pages 626-635, Swiss Federal Institute of Technology, Lausanne, Switzerland, 13-17 September. Springer-Verlag
+@INPROCEEDINGS
+{MonSliVen99a ,
+AUTHOR = "Monmarch{\'e}, N. and Slimane, M. and Venturini, G.",
+TITLE = "On Improving Clustering in Numerical Databases with Artificial Ants",
+YEAR = "1999",
+BOOKTITLE = "5th European Conference on Artificial Life (ECAL'99), Lecture Notes in Artificial Intelligence",
+Volume = "1674",
+EDITOR = "Floreano, D. and Nicoud, J.D. and Mondala, F.",
+PAGES = "626--635",
+ADDRESS = "Swiss Federal Institute of Technology,
+Lausanne, Switzerland",
+MONTH = "13-17 September",
+ORGANISATION = "",
+PUBLISHER = "Springer-Verlag",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini (1999). Antclass: discovery of clusters in numeric data by an hybridization of an ant colony with the kmeans algorithm. Rapport interne 213, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Janvier. 21 pages
+@TECHREPORT{MonSliVen99b,
+author = "Monmarch\'e, N. and Slimane, M. and Venturini, G.",
+title = "AntClass: discovery of clusters in numeric data by an
+hybridization of an ant colony with the Kmeans algorithm",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "1999",
+type = "Rapport interne",
+number = "213",
+address = "E3i Tours",
+month = "Janvier",
+pages = "",
+note = "21 pages"
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini (1999). how the ants Pachycondyla apicalis are suggesting a new search algorithm. Rapport interne 214, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Janvier. 17 pages.
+@TECHREPORT{MonSliVen99c,
+author = "Monmarch\'e, N. and Slimane, M. and Venturini, G.",
+title = "On how the ants \textit{Pachycondyla apicalis} are suggesting
+a new search algorithm",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "1999",
+type = "Rapport interne",
+number = "214",
+address = "E3i Tours",
+month = "Janvier",
+pages = "",
+note = "17 pages"
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini (1999). Antclass, découverte de classes dans des données numériques grâce à l'hybridation d'une colonie de fourmis et l'algorithme des centres mobiles. Conférence d'Apprentissage, pages 169-176, Ecole Polytechnique, Palaiseau, France, 15-18 juin
+@INPROCEEDINGS
+{MonSliVen99d ,
+AUTHOR = "Monmarch{\'e}, N. and Slimane, M. and Venturini, G.",
+TITLE = "AntClass, D{\'e}couverte de classes dans des donn{\'e}es
+num{\'e}riques gr{\^a}ce {\`a} l'hybridation d'une colonie de fourmis et
+l'algorithme des centres mobiles",
+YEAR = "1999",
+BOOKTITLE = "Conf{\'e}rence d'Apprentissage",
+PAGES = "169--176",
+ADDRESS = "Ecole Polytechnique, Palaiseau, France",
+MONTH = "15-18 juin",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, M. Slimane, G. Venturini, D. Lièvre, M. Benoit, J. Caulet, G. Nocent, C. Guinot (1999). Exploration de données numériques par visualisation 3D en réalité virtuelle. Conférence d'Apprentissage, pages 259-266, Ecole Polytechnique, Palaiseau, France, 15-18 juin
+@INPROCEEDINGS
+{MonSliVenLieBenCau99a ,
+AUTHOR = "Monmarch{\'e}, N. and Slimane, M. and Venturini, G. and Li{\`e}vre, D. and Benoit, M. and
+Caulet, J. and Nocent, G. and Guinot, C.",
+TITLE = "Exploration de donn{\'e}es num{\'e}riques par visualisation {3D} en
+r{\'e}alit{\'e} virtuelle",
+YEAR = "1999",
+BOOKTITLE = "Conf{\'e}rence d'Apprentissage",
+PAGES = "259--266",
+ADDRESS = "Ecole Polytechnique, Palaiseau, France",
+MONTH = "15-18 juin",
+NOTE = ""
+}
+[pdf] [BibTeX] N. Monmarché, G. Venturini, M. Slimane (1999). Classification non supervisée par une population de fourmis artificielles. Actes des Colloques Insectes Sociaux, pages 43-52, Tours, France, 1-3 Septembre
+@INPROCEEDINGS
+{MonVenSli99b,
+AUTHOR = "Monmarch{\'e}, N. and Venturini, G. and Slimane, M.",
+TITLE = "Classification non supervis{\'e}e par une population de fourmis
+artificielles",
+YEAR = "1999",
+BOOKTITLE = "Actes des Colloques Insectes Sociaux",
+VOLUME = "13",
+PAGES = "43--52",
+ADDRESS = "Tours, France",
+MONTH = "1-3 Septembre",
+NOTE = ""
+}
+M. Slimane, T. Brouard, G. Venturini, J.P. Asselin de Beauville (1999). Apprentissage non supervisé d’images par hybridation génétique d’une chaîne de Markov cachée. Revue Traitement du Signal volume 16 n°, pp. 461-475
+1998
+T. Brouard, M. Slimane, J.P. Asselin de Beauville, G. Venturini (1998). Apprentissage d'une chaîne de Markov cachée : Problème liés à l'image. Revue de Statistique Appliquée, pp.83-108
+T. Brouard, M. Slimane, G. Venturini (1998). Introduction aux chaînes de Markov cachées et leurs applications. Colloque Algorithmes Evolutionnaires: de la théorie aux applications, Centre de Mathématiques et d'Informatique, 29 juin au 1 juillet 1998 , Marseille
+T. Brouard, M. Slimane, G. Venturini, J.P. Asselin de Beauville (1998). Apprentissage génétique hybride de modèles de Markov cachés. "Apprentissage:des principes naturels aux méthodes artificielles" pp.241-256. Edité par G.Ritschard, A.Berchtold, F.Duc et D.Zighed. Editions Hermès
+O. Gascuel, B. Bouchon-Meunier, G. Caraux, P. Gallinari, A. Guénoche, Y. Guermeur, Y. Lechevallier, C. Marsala, L. Miclet, J. Nicolas, R. Nock, M. Ramdani, M. Sébag, B. Tallur, G. Venturini (1998). Supervised classification: a comparison of twelve numerical, symbolic and hybrid methods. International Journal of Pattern Recognition and Artificial Intelligence, 83 pages.
+[BibTeX] N. Monmarché (1998). Algorithmes évolutionnaires à base de population de fourmis. Journées Evolutionnaires Trimestrielles (2), Marseille, 29,30 juin, 1er Juillet
+@UNPUBLISHED{Mon98a,
+author = "Monmarch\'e, N.",
+title = "Algorithmes \'evolutionnaires \`a base de population de fourmis",
+year = "1998",
+month = "29,30 juin, 1er Juillet",
+note = "Pr\'esentation aux Journ\'ees Evolutionnaires Trimestrielles (JET 2), Marseille"
+}
+[pdf] [BibTeX] N. Monmarché, L. Desbarats, M. Slimane, G. Venturini (1998). Etude d'un nouvel algorithme d'optimisation et d'apprentissage inspiré d'une colonie de fourmis Pachycondyla apicalis. Colloque Intelligence Artificielle et Complexité, pages 114-119, Paris, France, 28-29 Septembre
+@INPROCEEDINGS
+{MonDesSliVen98a ,
+AUTHOR = "Monmarch{\'e}, N. and Desbarats, L. and Slimane, M. and Venturini, G.",
+TITLE = "Etude d'un nouvel algorithme d'optimisation et d'apprentissage
+inspir\'e d'une colonie de fourmis \textit{Pachycondyla apicalis}",
+YEAR = "1998",
+BOOKTITLE = "Colloque Intelligence Artificielle et Complexit\'e",
+PAGES = "114--119",
+ADDRESS = "Paris, France",
+MONTH = " 28-29 Septembre",
+NOTE = ""
+}
+[BibTeX] N. Monmarché, G. Venturini, M. Slimane (1998). On how the ants Pachycondyla apicalis are suggesting a new search algorithm. First International Workshop on Ant Colony Optimization, Brussels, Belgium, October 15-16
+@UNPUBLISHED{MonVenSli98a,
+author = "Monmarch\'e, N. and Venturini, G. and Slimane, M.",
+title = "On how the ants \textit{Pachycondyla apicalis} are
+suggesting a new search algorithm",
+year = "1998",
+month = "October 15-16",
+note = "Presented at the First International Workshop on Ant Colony Optimization, Brussels, Belgium"
+}
+S. Rochet, G. Venturini, M. Slimane, E.M. EL Kharoubi (1998). A Critical and empirical study of epistasis measures for predicting GA performances:a summary. Lecture Notes in Computer Science, pp.275-285
+M. Slimane, T. Brouard, G. Venturini (1998). Introduction aux chaînes de Markov cachées Pseudo-2D. Centre de Mathématiques et d'Informatique, 29 juin au 1 juillet 1998, Marseille
+M. Slimane, G. Venturini, J.P. Asselin de Beauville, T. Brouard (1998). Hybrid Genetic Learning of Hidden Markov Models for Time Séries Prédiction. (édité par J-M.Aurifeille), Kluwer Accademics, pp.179-196
+[BibTeX] D. Steinberg, N. Monmarché, M. Slimane, G. Venturini (1998). Discovery of clusters in numeric data by an hybridization of an ant colony with the minimum distance classification. First International Workshop on Ant Colony Optimization, Brussels, Belgium, October 15-16
+@UNPUBLISHED{SteMonSliVen98a,
+author = "Steinberg, D. and Monmarch\'e, N. and Slimane, M. and Venturini, G.",
+title = "Discovery of clusters in numeric data by an hybridization
+of an ant colony with the minimum distance classification",
+year = "1998",
+month = "October 15-16",
+note = "Presented at the First International Workshop on Ant Colony Optimization, Brussels, Belgium"
+}
+[pdf] [BibTeX] D. Steinberg, N. Monmarché, M. Slimane, G. Venturini, C. Guinot (1998). Découverte de classes dans des données numériques par hybridation d'une colonie de fourmis avec les centres mobiles. Sixièmes rencontres de la Société Francophone de Classification, pages 211-214, Montpellier, France, 21-22-23 Septembre
+@INPROCEEDINGS
+{SteMonSliVenGui98a ,
+AUTHOR = "Steinberg, D. and Monmarch{\'e}, N. and Slimane, M. and Venturini, G. and Guinot, C.",
+TITLE = "D{\'e}couverte de classes dans des donn{\'e}es num{\'e}riques par
+hybridation d'une colonie de fourmis avec les centres mobiles",
+YEAR = "1998",
+BOOKTITLE = "Sixi\`emes rencontres de la Soci\'et\'e Francophone de Classification",
+PAGES = "211--214",
+ADDRESS = "Montpellier, France",
+MONTH = "21-22-23 Septembre",
+NOTE = ""
+}
+G. Venturini, A.E. Eiben (1998). proceedings of the Evonet Summer School on Evolutionary Computation, ESSEC'98. co-editors
+P. Zhang, G. Venturini, M. Slimane (1998). Système autonome basé sur la vision assistée par ordinateur et Apprentissage par Renforcement : application au contrôle d'un robot . Rapport interne n?, 24 pages, février
+1997
+T. Brouard, M. Slimane, J.P. Asselin de Beauville (1997). Modélisation des processus simultanés indépendants par chaînes de Markov cachées multidimensionnelles (CMC-MD / I). Rapport interne n?, 66 pages, décembre
+T. Brouard, M. Slimane, J.P. Asselin de Beauville, G. Venturini (1997). "Rescaling" vectoriel pour l’algorithme de Baum-Welch. Application à l’apprentissage d’images par chaînes de Markov cachées, A.S.U 97, pp.191-194, 26-30 mai 1997, Carcassonne (France)
+T. Brouard, M. Slimane, G. Venturini (1997). Applications des algorithmes génétiques aux chaînes de Markov cachées. Colloque Algorithmes Evolutifs: de la théorie aux applications, Centre de Mathématiques et d'Informatique, 19--20 juin 1997, Marseille
+T. Brouard, M. Slimane, G. Venturini, J.P. Asselin de Beauville (1997). Apprentissage génétique hybride de modéles de Markov cachés. A.I.D.R.I Genève (Suisse), pp. 127-130, 23-26 Juin
+T. Brouard, M. Slimane, G. Venturini, J.P. Asselin de Beauville (1997). Segmentation non-supervisée d'images par chaînes de Markov cachées. 5ème journées de la Société Francophone de Classification, Lyon (France), pp 177-180, 17-19 septembre
+T. Brouard, M. Slimane, G. Venturini, J.P. Asselin de Beauville (1997). Apprentissage du nombre d'états d'une chaîne de Markov cachée pour la reconnaissance d'images. GRETSI 97, pp 845-848, 15-19 Septembre 1997 Grenoble (France)
+T. Brouard, M. Slimane, G. Venturini, J.P. Asselin de Beauville, M. Narbey (1997). Prédiction de séries temporelles par chaînes de Markov cachées et algorithmes génétiques. ACSEG 24 octobre 1997 Tours (France), pp.227-237
+[BibTeX] N. Monmarché (1997). Algorithme d'optimisation combinatoire et numérique par des colonies de fourmis. Rapport du Diplôme d'Initiation à la Recherche Scientifique, Université de Tours, France
+@MISC
+{ Mon97a ,
+author = "Monmarch{\'e}, N.",
+title = "Algorithmes d'optimisation combinatoire et num{\'e}rique par des colonies de fourmis",
+howpublished = "Rapport du Dipl{\^o}me d'Initiation à la Recherche Scientifique, Universit{\'e} de Tours, France",
+year = "1997",
+note = ""
+}
+[pdf] [BibTeX] N. Monmarché, G. Venturini, M. Slimane (1997). Optimisation de chaînes markov cachées par une population de fourmis Pachycondyla apicalis. Rapport interne 195, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Septembre 1997. 24 pages
+@TECHREPORT{MonVenSli97a,
+author = "Monmarch\'e, N. and Venturini, G. and Slimane, M.",
+title = "Optimisation de Cha{\^\i}nes Markov Cach{\'e}es par une
+population de fourmis \textit{Pachycondyla apicalis}",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "1997",
+type = "Rapport interne",
+number = "195",
+address = "E3i Tours",
+month = "Septembre",
+pages = "",
+note = "24 pages"
+}
+E. Ramat, G. Venturini, C. Lenté, M. Slimane (1997). Solving the Multiple Constrained Project Scheduling Problem with Hybrid Genetic Algorithm. 7th International Conference on Genetic Algorithms, pp.489-496, July 19-23 1997, East Lansing, Michigan (USA)
+E. Ramat, G. Venturini, C. Lenté, M. Slimane (1997). Planification de projets à contraintes de ressources multiples :un algorithme génétique basé sur la fréquence des gènes. 2ème congrès international franco-québécois, Albi (France), 5-7 septembre
+S. Rochet, M. Slimane, G. Venturini (1997). Epistasie et performance dans les algorithmes génétiques. Colloque Algorithmes Evolutifs: de la théorie aux applications, Centre de Mathématiques et d'Informatique, 19-20 juin 1997, Marseille
+G. Venturini (1997). Apport des algorithmes génétiques à l'apprentissage et à l'optimisation. rapport d'Habilitation à diriger des recherches soutenue le 12 décembre 1997, Université de Tours
+G. Venturini, S. Rochet, M. Slimane (1997). Schemata and deception in binary genetic algorithms: a tutorial. Control and cybernetics, Special Issue on Evolutionary Algorithms, pp.339-373
+G. Venturini, M. Slimane (1997). Les Algorithmes Génétiques Interactifs. Colloque Algorithmes Evolutifs: de la théorie aux applications, 19--20 juin 1997, Centre de mathématiques et d'Informatique, Marseille
+[pdf] [BibTeX] G. Venturini, M. Slimane, N. Monmarché, D. Fresneau (1997). Modélisation des fourmis Pachycondyla apicalis appliquée à l'optimisation numérique. Rapport interne 194, Laboratoire d'Informatique de l'Université de Tours, E3i Tours, Septembre 1997. 15 pages
+@TECHREPORT{VenSliMonFre97a,
+author = "Venturini, G. and Slimane, M. and Monmarch\'e, N. and Fresneau, D.",
+title = "Mod\'elisation des fourmis \textit{Pachycondyla apicalis}
+appliqu\'ee \`a l'optimisation num\'erique",
+institution = "Laboratoire d'Informatique de l'Universit{\'e} de Tours",
+year = "1997",
+type = "Rapport interne",
+number = "194",
+address = "E3i Tours",
+month = "Septembre",
+pages = "",
+note = "15 pages"
+}
+G. Venturini, M. Slimane, F. Morin, J.P. Asselin de Beauville (1997). On Using Interactive Genetic Algorithms for Knowledge Discovery in Databases. 7th International Conference on Genetic Algorithms, pp.696-703, July 19-23 1997, East Lansing, Michigan (USA)
+1996
+T. Brouard, M. Slimane, J.P. Asselin de Beauville (1996). Chaînes de Markov Cachées Pseudo-2D. Rapport interne n?, 26 p., juin 1996
+J.P. Asselin de Beauville, M. Slimane, G. Venturini, J.L. Laporte, M. Narbey (1996). Two hybrid gradient and genetic search algorithms for learning hidden Markov models. 13th International Conference on Machine Learning, Bari (Italie), pp.1-8, 3-6 juillet
+S. Augier, G. Venturini (1996). SIAO1: a first order machine learning system using genetic algorithms. Proceedings of the ICML96 Workshop on Evolutionary Computing and Machine Learning, T.C. Fogarty et G. Venturini (Eds)
+S. Augier, G. Venturini (1996). Apprentissage de règles en ordre 1 par algorithmes génétiques. Journées de la Société Francophone de Classification (SFC96)
+D. Bi, J.P. Asselin de Beauville, M. Slimane (1996). Segmentation d'images texturées basée sur les vecteurs de rang de niveaux de gris sur la transformation de Karhunen-Loëve. 4ème journées de la Société Francophone de Classification, Vannes (France), 4p, 19-20 septembre
+T. Brouard, M. Slimane, J.P. Asselin de Beauville (1996). Introduction aux modèles de Markov cachés du premier ordre (2-ième partie) Méthode de rescaling avec et sans vecteurs d'observations. Rapport interne n° 178, 68 p., septembre 1996
+S. Devaux, G. Venturini (1996). ARTCS: a hybrid classifier system for perceiving images with the adaptive resonance theory. Proceedings of the ICML96 Workshop on Evolutionary Computing and Machine Learning, T.C. Fogarty et G. Venturini (Eds), pp 53-60
+T.C. Fogarty, G. Venturini (1996). Editors of Proceedings of the Workshop on Evolutionary Computing and Machine Learning, International Conference on Machine Learning, 167 pages.
+E. Ramat, C. Lenté, M. Slimane, C. Tacquard, G. Venturini (1996). Planification de projets stochastiques par détermination de décalages temporels. XXVIIIème journée de statistiques (ASU), Québec (Canada), 622-627, mai
+E. Ramat, C. Lenté, M. Slimane, C. Tacquard, G. Venturini (1996). Stochastic Project Scheduling based on Time Lag. IEEE/SMC'96, Pékin (Chine), pp.2916-2921, 14-17 octobre
+[BibTeX] P. Richard, M. Falcon Chang, N. Monmarché, C Proust (1996). Visiting the Travelling Salesman Problem with petri nets and application in the glass industry. IEEE Conference on Emerging Technologies and Factory automation, pages 238-242, Hawaii
+@INPROCEEDINGS
+{RicFalMonPro96a ,
+AUTHOR = "Richard, P. and Falcon~Chang, M. and Monmarch{'e}, N. and Proust, C.",
+TITLE = "Visiting the {T}ravelling {S}alesman {P}roblem with Petri nets and
+application in the glass industry.",
+YEAR = "1996",
+BOOKTITLE = "IEEE Conference on Emerging Technologies and Factory automation",
+VOLUME = "1",
+PAGES = "238--242",
+ADDRESS = "Hawaii",
+NOTE = ""
+}
+S. Rochet, M. Slimane, G. Venturini (1996). Epistasis for encoding in genetic algorithms. Australian and New Zeland Conference on Intelligent Information Systems, IEEE ANZIIS'96, Adelaide (Australie), pp. 268-271 18-20 novembre
+M. Slimane, J.P. Asselin de Beauville, T. Brouard, G. Venturini, J.M. Sealelli (1996). Reconnaissance d'image par chaîne de Markov cachée optimisée génétiquement. XXVIIIème journée de statistiques (ASU), Québec (Canada), pp.683-687, 27-30 Mai
+M. Slimane, J.P. Asselin de Beauville, T. Brouard, G. Venturini, J.M. Sealelli (1996). Hybridation d'une chaîne de Markov cachée et d'un algorithme génétique: application à la reconnaissance de formes dans les images. Colloque AGI'96, Tours, 6-7 juin
+M. Slimane, G. Venturini, J.P. Asselin de Beauville, T. Brouard, A. Brandeau (1996). Optimizing Hidden Markov Models with a Genetic Algorithm. Lecture Notes in computer Science, n?, pp.384-396, juin
+G. Venturini (1996). A classifier system approach to control in changing environments. proceedings of the Second International Conference on Adaptive Computing in Engineering, Design and Control (ACEDC96), Plymouth, UK, pp 100-106
+G. Venturini (1996). Algorithmes génétiques et apprentissage. Revue d'Intelligence Artificielle, vol. 10, n2-3/1996, pp 345-387
+G. Venturini, D. Montalibet, J.P. Asselin de Beauville (1996). Interactive genetic programming for knowledge discovery in databases. Proceedings of the ICML96 Workshop on Evolutionary Computing and Machine Learning, T.C. Fogarty et G. Venturini (Eds)
+G. Venturini, M. Slimane, J.P. Asselin de Beauville (1996). Deux algorithmes génétiques hybrides pour l'apprentissage de chaînes Markov cachées. 4ème journées de la Société Francophone de Classification, Vannes (France), 4p, 19-20 septembre
+G. Verley, J.P. Asselin de Beauville, C. Lenté, M. Slimane (1996). Prise en compte de connaissances à priori pour améliorer la fiabilité des classifieurs supervisés. XXVIIIème journée de Statistiques (ASU), Québec (Canada), pp.727-731, 27-30 mai
+A. Vignier, G. Venturini (1996). Resolution of a hybrid flowshop with a parallel genetic algorithm. International Workshop on Project Management and Scheduling (PMS96), Poznan, Pologne
+A. Vignier, G. Venturini (1996). Comparaison entre une procédure par séparation et évaluation et un algorithme génétique pour la résolution d'un flowshop hybride. Colloque AGI'96, Tours, pp 167-171
+1995
+S. Augier, G. Venturini, Y. Kodratoff (1995). Learning first order logic rules with a genetic algorithm. proceedings of the First International Conference on Knowledge Discovery in Databases (KDD95)
+F. Kettaf, N. Boujemaa, G. Venturini, J.P. Asselin de Beauville (1995). Modèles génétiques et flous pour la classification. Journées de la Société Francophone de Classification (SFC), Namur, Belgique
+M. Slimane, J.P. Asselin de Beauville, T. Brouard, A. Brandeau (1995). Optimisation de chaînes de Markov cachées par algorithmes génétiques. Evolution Artificielle 95 (EA'95), ENS Télécom, Brest (France), pp.161-168, 4-6 septembre
+G. Venturini (1995). Towards a genetic theory of easy and hard functions. proceedings of Evolution Artificielle 95, Selected papers, Lecture Notes in Computer Science 1063, Springer Verlag
+G. Venturini (1995). GA consistently deceptive functions are not challenging problems. First IEE/IEEE International Conference on Genetic Algorithms in Engineering Systems: Innovations and Applications, IEE Conference publication No 414, pp 357-364
+G. Venturini, O. Gascuel (1995). SYMENU, (article collectif dont G. Venturini, O. Gascuel coordonateur des travaux), Méthodes symboliques-numériques de discrimination. Actes des 5ièmes Journées Nationales du PRC-IA, pp 29-76
+G. Venturini, D. Montalibet (1995). Analyse exploratoire d'une base de données utilisant un algorithme génétique interactif et la programmation génétique. Journées de la Société Francophone de Classification (SFC), Namur, Belgique
+G. Venturini, M. Slimane, J.P. Asselin de Beauville (1995). Optimisation hybride par algorithmes génétiques et algorithme de BAUM-WELCH de chaînes de Markov cachées. Deuxième Rencontre internationales Approches Neuronales en Sciences Economiques et de Gestion (ANSEG), Futuroscope de Poitiers (France), 27 octobre
+G. Verley, J.P. Asselin de Beauville, E. Ramat, M. Slimane (1995). Contrôle de l'apprentissage dans les réseaux multicouche. Rapport interne n?, 20 p, octobre
+1994
+M. Slimane, J.P. Asselin de Beauville (1994). Introduction aux chaînes de Markov cachées (1ère partie). Rapport interne n?, 31 p, décembre
+G. Venturini (1994). Analyzing French Justice with a genetic based inductive algorithm. Applied Artificial Intelligence, R. Trappl (Ed), Special Issue on Real world applications of Machine Learning, Y. Kodratoff (Guest Ed), vol 8, N 4, pp 565-577
+G. Venturini (1994). Improving genetic algorithms for concept learning. IEEE International Symposium on Evolutionary Computation (faisant partie de l'IEEE World Congress on Computational Intelligence), IEEE Press
+G. Venturini (1994). Adaptation in dynamic environments through a minimal probability of exploration. Third International Conference on Simulation of Adaptive Behavior: From Animals to Animats 3 (SAB94), D. Cliff, P. Husbands, J.A. Meyer, S.W. Wilson (Eds), MIT-Press, pp 371-379
+G. Venturini (1994). Une fonction totalement trompeuse d'ordre 3 et facile pour une méthode de gradient. Evolution Artificielle 94, Cépaduès Editions, pp 39-44
+[pdf] G. Venturini (1994). Apprentissage adaptatif et apprentissage supervisé par algorithme génétique. Thèse de doctorat, Janvier 1994, Université de Paris XI, Orsay
+1993
+G. Venturini (1993). SIA : a supervised inductive algorithm with genetic search for learning attributes based concepts. European Conference on Machine Learning (ECML93), P. Brazdil (Ed), Springer Verlag, Lecture Notes in Artificial Intelligence 667, pp 280-296
+1992
+G. Venturini (1992). AGIL: solving the Exploration versus Exploitation dilemma in a simple classifier system applied to simulated robotics. International Workshop on Machine Learning (IWML92), D. Sleeman et P. Edwards (Eds), Morgan Kaufmann, pp 458-463
+1991
+G. Venturini (1991). Characterizing the adaptation abilities of a class of genetic based machine learning algorithms. European Conference on Artificial Life (ECAL91), F.J. Varela et P. Bourgine (Eds), MIT-Press/Bradford Books, pp 302-309
+1990
+R. Natowicz , G. Venturini (1990). Genetic Algorithms and Classifier Systems for an autonomous moving robot. Iasted International Symposium on Applied Modeling and Simulation 1990, Acta Press
+R. Natowicz , G. Venturini (1990). Learning the behavior of a simulated moving robot using genetic algorithms. Artificial Intelligence Application and Neural Networks (AINN90), M.H. Hamza (Ed), Acta Press, pp 49-52
+R. Natowicz , G. Venturini (1990). Learning the behavior of a simulated moving robot using genetic algorithms. Cognitiva 90, T. Kohonen et F. Fogelman (Eds), Afcet, pp 645-654
+G. Venturini (1990). Algorithmes génétiques appliqués à la robotique mobile. Stage de DEA, Université de Paris XI, Orsay
+Related links: Virtual reality|Nicolas Monmarché|API: Modeling Pachycondyla Apicalis for optimizati
+Site powered by Webxygen

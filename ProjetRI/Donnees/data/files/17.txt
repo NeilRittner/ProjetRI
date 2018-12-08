@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Epistasis measures
+Summary:
+Epistasis measures have been developed for measuring statistical information about the difficulty of a function to be optimized by a genetic algorithm (GA). We have first shown that these measures can be generalized to continuous search spaces. We give also a review of the work on these measures such as the epistasis correlation. Then we try to relate the epistasis correlation to the overall performances of a binary GA on a set of 14 functions. The only relation that seems to hold strongly is that a high epistasis correlation implies GA-easy, as indicated by the GA theory of deceptiveness. Then, we show that changing the representation of the search space with transformations that improve epistasis measures does not imply the same increasing in the genetic algorithm performances. These both empirical studies seem to indicate that the generality of epistasis measures is limited.
+Main contact: Gilles Venturini
+Publications: Please consult our publications page
+Related links: Publications|Gilles Venturini|Virtual reality
+Site powered by Webxygen

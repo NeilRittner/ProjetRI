@@ -1,0 +1,10 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Virtual reality and interactive exploration of Multimedia data
+Summary:
+We study in this work a new 3D interactive method for visualizing multimedia data with virtual reality. We consider that a domain expert has collected a set of examples described with numeric and symbolic attributes but also with sounds, images, videos or web sites, and that this expert wishes to explore those data in order to understand their structure. We use a 3D stereoscopic display in order to let the expert easily visualize and perceive the numerical attributes. We add to this display the appearing of contextual information such as texts, voice synthesis, sound, small images. Larger images, videos and web sites are displayed on a second computer in order to ensure real time display. Navigating through the data is done in a very intuitive and precise way with a 3D sensor with six degrees of freedom that simulates a virtual camera. Interactive request can be formulated by the expert with a data glove that recognize the gestures.
+Here is an overview of our tool:
+Part of this work is done with the support of and in collaboration with the CE.R.I.E.S.
+Main contact: Gilles Venturini, Christiane Guinot
+Publications: Please consult our publications page
+Related links: Gilles Venturini|Swarm intelligence, flocking and clustering|What
+Site powered by Webxygen

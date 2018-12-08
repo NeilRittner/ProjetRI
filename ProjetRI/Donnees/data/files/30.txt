@@ -1,0 +1,18 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Artistic Ants
+These projects aim at using real ants behaviors to build tools that can be used to generate numerical art such as music or painting. We present here two examples of this type of application.
+Automatic Music Generation with Artificial Ants
+This tool builds a graph where vertices are notes (frequency, duration, ...) and where edges correspond to transitions between notes. Each ant can move from one vertice to another generating in this way a meloly. At each transition, an ant deposit pheromones which are used to direct the moves of ants in a probabilistic manner. The more pheromones are present on one edge, the more ants will be attracted by this edge. This process produces melody by the repetition of sequences that can be memorized by the human mind. Moreover, pheromones evaporate as in nature, producing an evolution of the melody. This tools generates midi files which can comprise several instruments. Different parameter settings for the ant behavior or midi instruments can produce different results.
+Example 1 (piano solo)
+Example 2 (piano and strings)
+Example 3 (Music Box)
+Example 4 (Gunshot, Seashore and Bowed glass)
+Example 5 (2 Distortion guitars and Slap Bass)
+Example 6 (2 Birds and Pan flute)
+Artificial Painting with Artificial Ants
+In this work, ants deposit colors as they usually do with pheromones. Each ant can have a specified color to deposit and a specified color to follow as they can follow pheromones in Nature. Moreover, each ant moves accordingly to probabilities (to turn left/right...) which may be different from one ant to another. This mecanism is used to produce digital paintings. Different parameter settings can produce very different paintings. When an ant deposits its color, it is blended with the color already present on the canvas. Finally, as ants try to follow a color and replace it by its own color, the resulting painting is obtained by a competition between them to cover the canvas.
+A dynamic demo can be experimented here with random parameters (from 2 to 5 ants).
+Here are static examples of possible results with different parameters:
+Main contact : Nicolas Monmarché
+Acknowledgements : the materials presented in this page have been produced by java programs from Regis Conchon (E3i student)
+Related publications:

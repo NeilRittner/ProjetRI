@@ -1,0 +1,10 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Tree based clustering with artificial ants
+This demo shows how we have simulated the self-assembly behavior of real ants in order to organize data in a tree structure (it requires at least JRE 1.4.0).
+In this demo, we simulate a new biological model: the way ants build structures by assembling their bodies together. Ants start from a point (root of the tree) and progressively become connected to this point, and recursively to these firstly connected ants, etc. They can move on the living structure to find the best place where to be connected in a completetly distributed way. This behavior can be adapted to build a tree from the data to be clustered.
+Here, each ant represents one data. Each data is, in this example, a randomly generated color. Thus you may visually evaluate the results. The aim of the ants is to cluster colors together in a distributed way. Ants only use a similarity measure between colors to decide where to move in the tree and where to connect. The demo stops when all ants are connected.
+We will soon apply these algorithms to the automatic construction of portal sites (each data is a document).
+For more information, please consult Hanene Azzag's Web page.
+We thank L. Azif and M. Zitouni (students in our school of computer science) for their help in the programming of this demo.
+Related links: AntTree|Ants chemical recognition & clustering|Hanene Azzag
+Site powered by Webxygen

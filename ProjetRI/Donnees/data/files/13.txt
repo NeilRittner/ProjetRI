@@ -1,0 +1,12 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Fabien Picarougne (research page at N&N group)
+fabien.picarougne@etu.univ-tours.fr
++33 2 47 36 14 33
++33 2 47 36 14 22
+Status: PHD Student in Computer Science, University of Tours
+Main research interests: Search engine, strategic watch, evolutionary algorithms (see here)
+Main research responsabilities: administrator of the team computer network, member of organising committee for the JFT'2003
+Main teaching responsabilities: Local network, database and web programming, driver conception and computer peripherals
+Hobbies: Robotic, electronic, guitar, eating grape
+PHD Abstract. The problem of searching information, more generally strategic watch, on Internet is a priority for many companies today. We generally notice that a heavy computational time of the results provided by traditional search engines is necessary to obtain a satisfactory answer. So we are building an automatic search tool based on evolutionary search strategies. This tool explores the Web starting from results provided by traditional search engines (such Google, altavista, ...).
+Publications:

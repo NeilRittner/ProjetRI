@@ -1,0 +1,12 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Hanene Azzag (research page at N&N group)
+hanene.azzag@etu.univ-tours.fr
++33 2 47 36 14 33
++33 2 47 36 14 22
+Status: PHD Student in Computer Science, EPU, University of Tours
+Main research interests: automatic building of portal sites, collective agregation behaviour, hierarchical clustering, (see here)
+Main research responsabilities: member of organising committee for the JFT'2003 - member of Majecstic program comitiee
+Main teaching responsabilities: algorithmic, local network
+Hobbies: watching tv (popstars), video games
+PHD Abstract. Search of information via Internet becomes increasingly difficult. Generally search engines such as Yahoo or AltaVista do not find very precise answers. Portal sites can be considered as effective tools, but their construction requires a considerable effort, for this reason it becomes necessary to think of automatic methods of generation of portal sites. In our work we are interested in the automatic hierarchical clustering of documents (Web pages). For this purpose, we will adapt a new model based on the real ants behavior for self-clustering of individuals. We will get inspired by this biological model in order to cluster hierarchically and automatically documents or Web pages (according to a similarity measure between the texts).
+Publications:

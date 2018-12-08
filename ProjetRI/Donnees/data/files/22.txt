@@ -1,0 +1,12 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Artificial Ants (and related approaches)
+Ongoing projects:
+Modelling the ants chemical recognition system & Clustering Web mining
+Interactive clustering with swarm intelligence and flocking Artistic Artificial Ants
+Ant self-assembly behavior and portal sites automatic construction
+Past projects:
+Robotics & Ants vision system (2002)
+AntClass: clustering numerica data (2000)
+API: Modeling Pachycondyla Apicalis for optimization (1997)
+Related links: Nicolas Monmarché|AntTree|Gilles Venturini
+Site powered by Webxygen

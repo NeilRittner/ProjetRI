@@ -1,0 +1,52 @@
+Home|> Who <| What| Where| Extranet| Demos| Publications
+People of the N&N Group
+We form one of the five research groups at the Computer Science Lab of the University of Tours. The people involved in our research are:
+Gilles Venturini (Professor, at the head of the group)
+Ali Alarabi (Phd student)
+Hanene Azzag (Phd student)
+Nicolas Labroche (Phd student)
+Fabien Picarougne (Phd student)
+Christiane Guinot (Researcher from the CERIES)
+Antoine Oliver (Researcher from industry)
+Sébastien Devaux (Researcher from industry)
+Several students at M.Sc. level are working with us this year:
+2002/2003 : H. Ahmad, V. Amiot, Y. Bellangez, S. Boulay, X. Brénuchon, M. El Ashter, J. Fourcroy, F. Halli, K. Hocine, N. Journet, F. Labbé, O. Mouchaouri, B. Nidal
+We collaborate with people from other Labs in France/Europe:
+Guy Beugnon, LEPA, CNRS, Toulouse,
+Dominique Burger, INOVA (INSERM U483) and the Association BrailleNet,
+Alain Lenoir et al., Equipe Fourmis, IRBI, University de Tours,
+Philippe Preux, Université du Littoral,
+Djamel Zighed, Equipe de Recherche en Ingéniérie des connaissances (ERIC), Université de Lyon2
+We collaborate also with people from industry:
+CERIES, CHANEL
+Past members and collaborations
+Previous members:
+Nicolas Monmarché
+Mohamed Slimane
+Previous PhD students who worked with us:
+2002/2003 : Sébastien Aupetit,Christophe Guéret, Thierry Hénocque,
+2000 : Nicolas Monmarché
+1998 : Thierry Brouard
+Previous M.Sc. students who worked with us:
+2002 : S. Aupetit, H. Azzag, L. Boubchir, H. El Hadjen, C. Guéret, H. Marteau, P. Miossec
+1998: L. Desbarats, G. Dromel, L. Françoise, G. Nocent, S. Perrot, C. Thoumieux, and many others ...
+1997: F. Aulagnet, R. Bara, F. Bousson, S. Foucher, M. Jeanne, S. Laurin, O. Meslet, D. Plantin, D. Steinberg
+1996: E.M. El Kharoubi, J. Marcellino, N. Monmarché, F. Morin
+1995: T. Brouard, Y. Collet, S. Devaux
+1994: D. Montalibet
+Past collaborations with other Labs:
+S.Rochet, P.Liardet et E.Sanchez, Equipe Dynamique Stochastique et Algorithmique, CMI, Université de Provence, et NEURINFO.
+D.Fresneau, Laboratoire d'Ethologie Expérimentale et Comparée (LEEC), Université de Paris-Nord
+M.Boiron, Laboratoire de physiologie et Motricité Digestive, CHU de Tours.
+S. Augier, Y. Kodratoff, Equipe Inférence et Apprentissage, Laboratoire de Recherche en Informatique, Université de Paris-Sud,
+T. C. Fogarty, Napier University (UK)
+S. Wilson, The Rowland Institute for Science, USA
+Past collaborations with the industry are for instance:
+Alderan SA
+ATOS Blois
+MGSA and GEC ALSTHOM-AIR INDUSTRIES SYSTEMES
+AXA Asset Management
+FILINKS and CAISSE de DEPOTS et CONSIGNATIONS
+FINADOU
+Related links: What|Nicolas Monmarché|AntTree
+Site powered by Webxygen

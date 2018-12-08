@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Genetic and interactive optimization of web sites
+Summary:
+We deal in this project with the problem of automatically generating the style and the layout of web pages and web sites in a real world application where many web sites are considered. One of the main difficulty is to take into account the user preferences which are crucial in web sites design. We propose the use of an interactive genetic algorithm which generates solutions (styles, layouts) and which lets the user select the solutions that he favors according to their graphical representation. Two encoding have been defined for this problem, one linear and fixed length encoding for representing the style, and one variable length encoding based on HTML tables syntax for the layout.
+Here is an example of a screen shot of our applications. It represents the user interface which is presented when one wants to optimize the layout of a Web page:
+Main contact: Antoine Oliver
+Demo: You may try the interactive optimization of the style of this site and change its appearance at will!
+Related publications:

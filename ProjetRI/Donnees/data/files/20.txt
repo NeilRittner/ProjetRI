@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Genetic optimization of HMMs
+Summary:
+We study here how a gradient search, the Baum-Welch algorithm (BW), can be combined with genetic algorithms (GAs) in order to learn more accurate hidden Markov models (HMMs). Three possible cooperations between the two algorithms are studied: in GA + BW, the GA can be used to find a better initial point for the gradient search. In GA ÈBW the gradient search can be used within the GA as a local search operator. Finally, in GHOSP, the GA searches automatically for both the probabilities and architecture (number of states). Results on complex data in an image recognition task firstly show that the GA is able to rapidly find a good initial model compared to random generation, and greatly improves the BW algorithm. The second hybrid algorithm obtains even better results, and highlights how useful a local search can be when used in conjunction with a GA. Finally, results obtained with GHOSP are the best of all, which highlight how important it is to look also for the best architecture, and not just for the probabilities as in BW.
+Main contact: Mohamed Slimane
+Publications: Please consult our publications page
+Related links: Hidden Markov Models|Genetic and interactive optimization of web sites|Genetic algorithms
+Site powered by Webxygen

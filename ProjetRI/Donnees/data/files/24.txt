@@ -1,0 +1,10 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Access to the Web and multimedia for visually impaired people
+Summary:
+The access to dictionaries and encyclopedias is essential at school, university or work. Traditional techniques, like large print or embossed Braille, would result in many bulky volumes making quite uneasy their reading. A few years ago, the emergence of dictionaries on CD-ROM and more recently on the Web, provided new opportunities for visually impaired people to access dictionaries. Nevertheless, in spite of the fact that some of these dictionaries are accessible with Screen Readers, the user interface is not optimized for non visual access which slows down the reading process considerably.
+The general trend in the publishing world is to build databases whose content is independent of the reading interface, using structured languages like XML (eXtensive Markup Language). These well structured source files may be used to create automatically interfaces for visually impaired users. Indeed, HTML provides a simple and efficient way to create accessible documents in respect of the WCAG guidelines of the W3C/WAI or usability recommendations like BrailleNet’s. Thanks to style sheets techniques, people with low vision can use standard screen, with customized fonts, sizes, colors and contrasts. Blind users use Braille devices or a speech synthesizers rather. According to this principle, we have developed a tool for creating accessible HTML pages from the database of a popular encyclopedia, published in France by Hachette-Multimedia. The pages are build on the fly in response to user’s requests. The adapted encyclopedia is made available on a Web site. The aim of this project is to demonstrate the feasibility of such a process.
+This work is done in cooperation with BrailleNet
+Main contact: Mohamed Slimane
+Publications: Please consult our publications page
+Related links: Gilles Venturini|Hanene Azzag|Mohamed Slimane
+Site powered by Webxygen

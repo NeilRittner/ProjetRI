@@ -1,0 +1,7 @@
+Home| Who| What| Where| Extranet|> Demos <| Publications
+Our online demos
+Click here to genetically modify the style of this site
+Click here to see an original and unique paint work done by ants
+Click here to see a demo of tree-based clustering with artificial ants (simulation of self-assembly behavior)
+Related links: What|AntTree Demo|Ant Painting Demo
+Site powered by Webxygen

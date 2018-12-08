@@ -1,0 +1,9 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Hidden Markov Models
+Ongoing projects:
+Genetic learning of HMMs Automatic creation of portal sites
+Past projects:
+Multidimensional HMMs (1997)
+Image recognition with HMMs (1997)
+Related links: Genetic optimization of HMMs|Document classification for web portals|Genetic and interactive optimization of web sites
+Site powered by Webxygen

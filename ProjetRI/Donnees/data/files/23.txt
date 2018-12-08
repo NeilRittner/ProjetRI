@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+Document classification for web portals using hidden Markov models
+Summary:
+We have developed a classification algo­rithm tackling the problem of text categorization with the aim of automating web portals construction. Our tool assigns a theme to web pages according to their text content. We use Hidden Markov Models (HMM) to build this method named STCoL (Supervised Thematic Corpus Learning). Once themes are modeled with HMMs, STCoL is able to classify documents from different sources. This method is not only efficient but is also robust. This work has been supported by the ''Conseil Général de l'Indre''.
+Main contact: Mohamed Slimane
+Publications: Please consult our publications page
+Related links: AntTree|Hanene Azzag|Web applications
+Site powered by Webxygen

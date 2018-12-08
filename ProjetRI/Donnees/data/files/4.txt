@@ -1,0 +1,11 @@
+Home| Who|> What <| Where| Extranet| Demos| Publications
+Research activities of the N&N Group
+Our research themes can be summed up as follows:
+we study population-based biomimetic algorithms, namely Genetic Algorithms and Artificial Ants, and stochastic algorithms such as Hidden Markov Models
+we apply those algorithms to learning and optimization problems centered on the Web
+we make use of Virtual Reality as an interactive visualization tool
+Web applications Genetic Algorithms
+Artificial Ants Hidden Markov Models
+Virtual Reality
+Related links: aupetit|Nicolas Monmarché|Gueret
+Site powered by Webxygen

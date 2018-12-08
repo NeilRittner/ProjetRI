@@ -1,0 +1,8 @@
+Home| Who| What| Where| Extranet| Demos| Publications
+GeniMiner: a search engine for strategic watch
+Summary:
+We study in this work a genetic search strategy called GeniMiner for a search engine in the context of strategic watch. We highlight the relations that exist between Web statistical studies, search engines and optimization techniques. The user query is used to mathematically define a fitness function of Web pages. The genetic algorithm (GA) manages a population of pages and aims at maximizing this fitness function. We define a creation operator which uses the results given by standard search engines. The mutation operator consists in exploring local links. We present an empirical evaluation. We aim at using GeniMiner in the context of strategic watch.
+Main contact: Fabien Picarougne
+Publications: Please consult our publications page
+Related links: Fabien Picarougne|Virtual reality|Web for blind people
+Site powered by Webxygen
